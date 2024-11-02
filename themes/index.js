@@ -1,4 +1,10 @@
 export const themes = {
+  corporate: {
+    title_color: "ffffff",
+    icon_color: "ffffff",
+    text_color: "ffffff",
+    bg_color: "000000",
+  },
   default: {
     title_color: "2f80ed",
     icon_color: "4c71f2",
